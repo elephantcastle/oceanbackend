@@ -22,7 +22,7 @@ mongoose.connect(mongoString, { promiseLibrary: require('bluebird'),  useNewUrlP
   .catch((err) => console.error(err));
 
 app.use(morgan('dev'));
-app.use(cors());
+app.use(cors({credentials: true, origin: 'http://localhost:8080'}));
 app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({'extended':'false'}));
 // if(process.env.NODE_ENV === 'production'){
