@@ -11,6 +11,7 @@ router.get('/:id', function (req, res, next) {
     const finalResult = { groupedFacets, traits }
     const info = { _id, updated_date }
     const results = { finalResult, info }
+    res.header("Access-Control-Allow-Origin", "*");
     res.json(results);
   });
 });
@@ -30,6 +31,7 @@ router.post('/', function (req, res, next) {
         const finalResult = { groupedFacets, traits }
         const info = { _id, updated_date }
         const results = { finalResult, info }
+        res.header("Access-Control-Allow-Origin", "*");
         res.json(results);
       }
     });
