@@ -10,6 +10,12 @@ dotenv.config();
 let test = require('./routes/test');
 const app = express();
 
+let corsOptions = {
+  origin: ['http://localhost:8080', 'https://oceanfrontend2.vercel.app', 'https://ecstatic-mahavira-da940c.netlify.app'],
+  credentials: true,
+  methods: ['GET', 'POST', 'OPTIONS', 'PUT', 'DELETE'] };
+app.use(cors(corsOptions));
+  
 //setup moongose with bluebird promise handling
 let mongoose = require('mongoose');
 mongoose.Promise = require('bluebird');
@@ -22,7 +28,6 @@ mongoose.connect(mongoString, { promiseLibrary: require('bluebird'),  useNewUrlP
   .catch((err) => console.error(err));
 
 app.use(morgan('dev'));
-app.use(cors({credentials: true, origin: 'http://localhost'}));
 app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({'extended':'false'}));
 // if(process.env.NODE_ENV === 'production'){
