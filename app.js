@@ -12,7 +12,7 @@ const app = express();
 
 let corsOptions = {
   origin: ['http://localhost:8080', 'https://oceanfrontend2.vercel.app', 'https://ecstatic-mahavira-da940c.netlify.app'],
-  credentials: true,
+  // credentials: true,
   methods: ['GET', 'POST', 'OPTIONS', 'PUT', 'DELETE'] };
 app.use(cors(corsOptions));
   
