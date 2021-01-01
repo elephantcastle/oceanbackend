@@ -5,9 +5,7 @@
   "scripts": {
     "dev": "webpack-dev-server --inline --progress --config build/webpack.dev.conf.js",
     "start": "node app.js",
-    "start2": "npm run build && node app.js",
     "serve": "vue-cli-service serve",
-    "build": "vue-cli-service build --mode production",
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
