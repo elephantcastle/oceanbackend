@@ -1,0 +1,2102 @@
+[
+    {
+        "facet": "N1",
+        "text": {
+            "english": "Worry about things"
+        },
+        "R": "F"
+    },
+    {
+        "facet": "E1",
+        "text": {
+            "english": "Make friends easily"
+        },
+        "R": "F"
+    },
+    {
+        "facet": "O1",
+        "text": {
+            "english": "Have a vivid imagination"
+        },
+        "R": "F"
+    },
+    {
+        "facet": "A1",
+        "text": {
+            "english": "Trust others"
+        },
+        "R": "F"
+    },
+    {
+        "facet": "C1",
+        "text": {
+            "english": "Complete tasks successfully"
+        },
+        "R": "F"
+    },
+    {
+        "facet": "N2",
+        "text": {
+            "english": "Get angry easily"
+        },
+        "R": "F"
+    },
+    {
+        "facet": "E2",
+        "text": {
+            "english": "Love large parties"
+        },
+        "R": "F"
+    },
+    {
+        "facet": "O2",
+        "text": {
+            "english": "Believe in the importance of art"
+        },
+        "R": "F"
+    },
+    {
+        "facet": "A2",
+        "text": {
+            "english": "Would never cheat on my taxes"
+        },
+        "R": "F"
+    },
+    {
+        "facet": "C2",
+        "text": {
+            "english": "Like order"
+        },
+        "R": "F"
+    },
+    {
+        "facet": "N3",
+        "text": {
+            "english": "Often feel blue"
+        },
+        "R": "F"
+    },
+    {
+        "facet": "E3",
+        "text": {
+            "english": "Take charge"
+        },
+        "R": "F"
+    },
+    {
+        "facet": "O3",
+        "text": {
+            "english": "Experience my emotions intensely"
+        },
+        "R": "F"
+    },
+    {
+        "facet": "A3",
+        "text": {
+            "english": "Make people feel welcome"
+        },
+        "R": "F"
+    },
+    {
+        "facet": "C3",
+        "text": {
+            "english": "Try to follow the rules"
+        },
+        "R": "F"
+    },
+    {
+        "facet": "N4",
+        "text": {
+            "english": "Am easily intimidated"
+        },
+        "R": "F"
+    },
+    {
+        "facet": "E4",
+        "text": {
+            "english": "Am always busy"
+        },
+        "R": "F"
+    },
+    {
+        "facet": "O4",
+        "text": {
+            "english": "Prefer variety to routine"
+        },
+        "R": "F"
+    },
+    {
+        "facet": "A4",
+        "text": {
+            "english": "Am easy to satisfy"
+        },
+        "R": "F"
+    },
+    {
+        "facet": "C4",
+        "text": {
+            "english": "Go straight for the goal"
+        },
+        "R": "F"
+    },
+    {
+        "facet": "N5",
+        "text": {
+            "english": "Often eat too much"
+        },
+        "R": "F"
+    },
+    {
+        "facet": "E5",
+        "text": {
+            "english": "Love excitement"
+        },
+        "R": "F"
+    },
+    {
+        "facet": "O5",
+        "text": {
+            "english": "Like to solve complex problems"
+        },
+        "R": "F"
+    },
+    {
+        "facet": "A5",
+        "text": {
+            "english": "Dislike being the center of attention"
+        },
+        "R": "F"
+    },
+    {
+        "facet": "C5",
+        "text": {
+            "english": "Get chores done right away"
+        },
+        "R": "F"
+    },
+    {
+        "facet": "N6",
+        "text": {
+            "english": "Panic easily"
+        },
+        "R": "F"
+    },
+    {
+        "facet": "E6",
+        "text": {
+            "english": "Radiate joy"
+        },
+        "R": "F"
+    },
+    {
+        "facet": "O6",
+        "text": {
+            "english": "Tend to vote for liberal political candidates"
+        },
+        "R": "F"
+    },
+    {
+        "facet": "A6",
+        "text": {
+            "english": "Sympathize with the homeless"
+        },
+        "R": "F"
+    },
+    {
+        "facet": "C6",
+        "text": {
+            "english": "Avoid mistakes"
+        },
+        "R": "F"
+    },
+    {
+        "facet": "N1",
+        "text": {
+            "english": "Fear for the worst"
+        },
+        "R": "F"
+    },
+    {
+        "facet": "E1",
+        "text": {
+            "english": "Warm up quickly to others"
+        },
+        "R": "F"
+    },
+    {
+        "facet": "O1",
+        "text": {
+            "english": "Enjoy wild flights of fantasy"
+        },
+        "R": "F"
+    },
+    {
+        "facet": "A1",
+        "text": {
+            "english": "Believe that others have good intentions"
+        },
+        "R": "F"
+    },
+    {
+        "facet": "C1",
+        "text": {
+            "english": "Excel in what I do"
+        },
+        "R": "F"
+    },
+    {
+        "facet": "N2",
+        "text": {
+            "english": "Get irritated easily"
+        },
+        "R": "F"
+    },
+    {
+        "facet": "E2",
+        "text": {
+            "english": "Talk to a lot of different people at parties"
+        },
+        "R": "F"
+    },
+    {
+        "facet": "O2",
+        "text": {
+            "english": "Like music"
+        },
+        "R": "F"
+    },
+    {
+        "facet": "A2",
+        "text": {
+            "english": "Stick to the rules"
+        },
+        "R": "F"
+    },
+    {
+        "facet": "C2",
+        "text": {
+            "english": "Like to tidy up"
+        },
+        "R": "F"
+    },
+    {
+        "facet": "N3",
+        "text": {
+            "english": "Dislike myself"
+        },
+        "R": "F"
+    },
+    {
+        "facet": "E3",
+        "text": {
+            "english": "Try to lead others"
+        },
+        "R": "F"
+    },
+    {
+        "facet": "O3",
+        "text": {
+            "english": "Feel others' emotions"
+        },
+        "R": "F"
+    },
+    {
+        "facet": "A3",
+        "text": {
+            "english": "Anticipate the needs of others"
+        },
+        "R": "F"
+    },
+    {
+        "facet": "C3",
+        "text": {
+            "english": "Keep my promises"
+        },
+        "R": "F"
+    },
+    {
+        "facet": "N4",
+        "text": {
+            "english": "Am afraid that I will do the wrong thing"
+        },
+        "R": "F"
+    },
+    {
+        "facet": "E4",
+        "text": {
+            "english": "Am always on the go"
+        },
+        "R": "F"
+    },
+    {
+        "facet": "O4",
+        "text": {
+            "english": "Like to visit new places"
+        },
+        "R": "F"
+    },
+    {
+        "facet": "A4",
+        "text": {
+            "english": "Can't stand confrontations"
+        },
+        "R": "F"
+    },
+    {
+        "facet": "C4",
+        "text": {
+            "english": "Work hard"
+        },
+        "R": "F"
+    },
+    {
+        "facet": "N5",
+        "text": {
+            "english": "Don't know why I do some of the things I do"
+        },
+        "R": "F"
+    },
+    {
+        "facet": "E5",
+        "text": {
+            "english": "Seek adventure"
+        },
+        "R": "F"
+    },
+    {
+        "facet": "O5",
+        "text": {
+            "english": "Love to read challenging material"
+        },
+        "R": "F"
+    },
+    {
+        "facet": "A5",
+        "text": {
+            "english": "Dislike talking about myself"
+        },
+        "R": "F"
+    },
+    {
+        "facet": "C5",
+        "text": {
+            "english": "Am always prepared"
+        },
+        "R": "F"
+    },
+    {
+        "facet": "N6",
+        "text": {
+            "english": "Become overwhelmed by events"
+        },
+        "R": "F"
+    },
+    {
+        "facet": "E6",
+        "text": {
+            "english": "Have a lot of fun"
+        },
+        "R": "F"
+    },
+    {
+        "facet": "O6",
+        "text": {
+            "english": "Believe that there is no absolute right or wrong"
+        },
+        "R": "F"
+    },
+    {
+        "facet": "A6",
+        "text": {
+            "english": "Feel sympathy for those who are worse off than myself"
+        },
+        "R": "F"
+    },
+    {
+        "facet": "C6",
+        "text": {
+            "english": "Choose my words with care"
+        },
+        "R": "F"
+    },
+    {
+        "facet": "N1",
+        "text": {
+            "english": "Am afraid of many things"
+        },
+        "R": "F"
+    },
+    {
+        "facet": "E1",
+        "text": {
+            "english": "Feel comfortable around people"
+        },
+        "R": "F"
+    },
+    {
+        "facet": "O1",
+        "text": {
+            "english": "Love to daydream"
+        },
+        "R": "F"
+    },
+    {
+        "facet": "A1",
+        "text": {
+            "english": "Trust what people say"
+        },
+        "R": "F"
+    },
+    {
+        "facet": "C1",
+        "text": {
+            "english": "Handle tasks smoothly"
+        },
+        "R": "F"
+    },
+    {
+        "facet": "N2",
+        "text": {
+            "english": "Get upset easily"
+        },
+        "R": "F"
+    },
+    {
+        "facet": "E2",
+        "text": {
+            "english": "Enjoy being part of a group"
+        },
+        "R": "F"
+    },
+    {
+        "facet": "O2",
+        "text": {
+            "english": "See beauty in things that others might not notice"
+        },
+        "R": "F"
+    },
+    {
+        "facet": "A2",
+        "text": {
+            "english": "Use flattery to get ahead"
+        },
+        "R": "R"
+    },
+    {
+        "facet": "C2",
+        "text": {
+            "english": "\"Want everything to be \"\"just right.\"\"\""
+        },
+        "R": "F"
+    },
+    {
+        "facet": "N3",
+        "text": {
+            "english": "Am often down in the dumps"
+        },
+        "R": "F"
+    },
+    {
+        "facet": "E3",
+        "text": {
+            "english": "Can talk others into doing things"
+        },
+        "R": "F"
+    },
+    {
+        "facet": "O3",
+        "text": {
+            "english": "Am passionate about causes"
+        },
+        "R": "F"
+    },
+    {
+        "facet": "A3",
+        "text": {
+            "english": "Love to help others"
+        },
+        "R": "F"
+    },
+    {
+        "facet": "C3",
+        "text": {
+            "english": "Pay my bills on time"
+        },
+        "R": "F"
+    },
+    {
+        "facet": "N4",
+        "text": {
+            "english": "Find it difficult to approach others"
+        },
+        "R": "F"
+    },
+    {
+        "facet": "E4",
+        "text": {
+            "english": "Do a lot in my spare time"
+        },
+        "R": "F"
+    },
+    {
+        "facet": "O4",
+        "text": {
+            "english": "Interested in many things"
+        },
+        "R": "F"
+    },
+    {
+        "facet": "A4",
+        "text": {
+            "english": "Hate to seem pushy"
+        },
+        "R": "F"
+    },
+    {
+        "facet": "C4",
+        "text": {
+            "english": "Turn plans into actions"
+        },
+        "R": "F"
+    },
+    {
+        "facet": "N5",
+        "text": {
+            "english": "Do things I later regret"
+        },
+        "R": "F"
+    },
+    {
+        "facet": "E5",
+        "text": {
+            "english": "Love action"
+        },
+        "R": "F"
+    },
+    {
+        "facet": "O5",
+        "text": {
+            "english": "Have a rich vocabulary"
+        },
+        "R": "F"
+    },
+    {
+        "facet": "A5",
+        "text": {
+            "english": "Consider myself an average person"
+        },
+        "R": "F"
+    },
+    {
+        "facet": "C5",
+        "text": {
+            "english": "Start tasks right away"
+        },
+        "R": "F"
+    },
+    {
+        "facet": "N6",
+        "text": {
+            "english": "Feel that I'm unable to deal with things"
+        },
+        "R": "F"
+    },
+    {
+        "facet": "E6",
+        "text": {
+            "english": "Express childlike joy"
+        },
+        "R": "F"
+    },
+    {
+        "facet": "O6",
+        "text": {
+            "english": "Believe that criminals should receive help rather than punishment"
+        },
+        "R": "F"
+    },
+    {
+        "facet": "A6",
+        "text": {
+            "english": "Value cooperation over competition"
+        },
+        "R": "F"
+    },
+    {
+        "facet": "C6",
+        "text": {
+            "english": "Stick to my chosen path"
+        },
+        "R": "F"
+    },
+    {
+        "facet": "N1",
+        "text": {
+            "english": "Get stressed out easily"
+        },
+        "R": "F"
+    },
+    {
+        "facet": "E1",
+        "text": {
+            "english": "Act comfortably with others"
+        },
+        "R": "F"
+    },
+    {
+        "facet": "O1",
+        "text": {
+            "english": "Like to get lost in thought"
+        },
+        "R": "F"
+    },
+    {
+        "facet": "A1",
+        "text": {
+            "english": "Believe that people are basically moral"
+        },
+        "R": "F"
+    },
+    {
+        "facet": "C1",
+        "text": {
+            "english": "Am sure of my ground"
+        },
+        "R": "F"
+    },
+    {
+        "facet": "N2",
+        "text": {
+            "english": "Am often in a bad mood"
+        },
+        "R": "F"
+    },
+    {
+        "facet": "E2",
+        "text": {
+            "english": "Involve others in what I am doing"
+        },
+        "R": "F"
+    },
+    {
+        "facet": "O2",
+        "text": {
+            "english": "Love flowers"
+        },
+        "R": "F"
+    },
+    {
+        "facet": "A2",
+        "text": {
+            "english": "Use others for my own ends"
+        },
+        "R": "R"
+    },
+    {
+        "facet": "C2",
+        "text": {
+            "english": "Love order and regularity"
+        },
+        "R": "F"
+    },
+    {
+        "facet": "N3",
+        "text": {
+            "english": "Have a low opinion of myself"
+        },
+        "R": "F"
+    },
+    {
+        "facet": "E3",
+        "text": {
+            "english": "Seek to influence others"
+        },
+        "R": "F"
+    },
+    {
+        "facet": "O3",
+        "text": {
+            "english": "Enjoy examining myself and my life"
+        },
+        "R": "F"
+    },
+    {
+        "facet": "A3",
+        "text": {
+            "english": "Am concerned about others"
+        },
+        "R": "F"
+    },
+    {
+        "facet": "C3",
+        "text": {
+            "english": "Tell the truth"
+        },
+        "R": "F"
+    },
+    {
+        "facet": "N4",
+        "text": {
+            "english": "Am afraid to draw attention to myself"
+        },
+        "R": "F"
+    },
+    {
+        "facet": "E4",
+        "text": {
+            "english": "Can manage many things at the same time"
+        },
+        "R": "F"
+    },
+    {
+        "facet": "O4",
+        "text": {
+            "english": "Like to begin new things"
+        },
+        "R": "F"
+    },
+    {
+        "facet": "A4",
+        "text": {
+            "english": "Have a sharp tongue"
+        },
+        "R": "R"
+    },
+    {
+        "facet": "C4",
+        "text": {
+            "english": "Plunge into tasks with all my heart"
+        },
+        "R": "F"
+    },
+    {
+        "facet": "N5",
+        "text": {
+            "english": "Go on binges"
+        },
+        "R": "F"
+    },
+    {
+        "facet": "E5",
+        "text": {
+            "english": "Enjoy being part of a loud crowd"
+        },
+        "R": "F"
+    },
+    {
+        "facet": "O5",
+        "text": {
+            "english": "Can handle a lot of information"
+        },
+        "R": "F"
+    },
+    {
+        "facet": "A5",
+        "text": {
+            "english": "Seldom toot my own horn"
+        },
+        "R": "F"
+    },
+    {
+        "facet": "C5",
+        "text": {
+            "english": "Get to work at once"
+        },
+        "R": "F"
+    },
+    {
+        "facet": "N6",
+        "text": {
+            "english": "Can't make up my mind"
+        },
+        "R": "F"
+    },
+    {
+        "facet": "E6",
+        "text": {
+            "english": "Laugh my way through life"
+        },
+        "R": "F"
+    },
+    {
+        "facet": "O6",
+        "text": {
+            "english": "Believe in one true religion"
+        },
+        "R": "R"
+    },
+    {
+        "facet": "A6",
+        "text": {
+            "english": "Suffer from others' sorrows"
+        },
+        "R": "F"
+    },
+    {
+        "facet": "C6",
+        "text": {
+            "english": "Jump into things without thinking"
+        },
+        "R": "R"
+    },
+    {
+        "facet": "N1",
+        "text": {
+            "english": "Get caught up in my problems"
+        },
+        "R": "F"
+    },
+    {
+        "facet": "E1",
+        "text": {
+            "english": "Cheer people up"
+        },
+        "R": "F"
+    },
+    {
+        "facet": "O1",
+        "text": {
+            "english": "Indulge in my fantasies"
+        },
+        "R": "F"
+    },
+    {
+        "facet": "A1",
+        "text": {
+            "english": "Believe in human goodness"
+        },
+        "R": "F"
+    },
+    {
+        "facet": "C1",
+        "text": {
+            "english": "Come up with good solutions"
+        },
+        "R": "F"
+    },
+    {
+        "facet": "N2",
+        "text": {
+            "english": "Lose my temper"
+        },
+        "R": "F"
+    },
+    {
+        "facet": "E2",
+        "text": {
+            "english": "Love surprise parties"
+        },
+        "R": "F"
+    },
+    {
+        "facet": "O2",
+        "text": {
+            "english": "Enjoy the beauty of nature"
+        },
+        "R": "F"
+    },
+    {
+        "facet": "A2",
+        "text": {
+            "english": "Know how to get around the rules"
+        },
+        "R": "R"
+    },
+    {
+        "facet": "C2",
+        "text": {
+            "english": "Do things according to a plan"
+        },
+        "R": "F"
+    },
+    {
+        "facet": "N3",
+        "text": {
+            "english": "Have frequent mood swings"
+        },
+        "R": "F"
+    },
+    {
+        "facet": "E3",
+        "text": {
+            "english": "Take control of things"
+        },
+        "R": "F"
+    },
+    {
+        "facet": "O3",
+        "text": {
+            "english": "Try to understand myself"
+        },
+        "R": "F"
+    },
+    {
+        "facet": "A3",
+        "text": {
+            "english": "Have a good word for everyone"
+        },
+        "R": "F"
+    },
+    {
+        "facet": "C3",
+        "text": {
+            "english": "Listen to my conscience"
+        },
+        "R": "F"
+    },
+    {
+        "facet": "N4",
+        "text": {
+            "english": "Only feel comfortable with friends"
+        },
+        "R": "F"
+    },
+    {
+        "facet": "E4",
+        "text": {
+            "english": "React quickly"
+        },
+        "R": "F"
+    },
+    {
+        "facet": "O4",
+        "text": {
+            "english": "Prefer to stick with things that I know"
+        },
+        "R": "R"
+    },
+    {
+        "facet": "A4",
+        "text": {
+            "english": "Contradict others"
+        },
+        "R": "R"
+    },
+    {
+        "facet": "C4",
+        "text": {
+            "english": "Do more than what's expected of me"
+        },
+        "R": "F"
+    },
+    {
+        "facet": "N5",
+        "text": {
+            "english": "Love to eat"
+        },
+        "R": "F"
+    },
+    {
+        "facet": "E5",
+        "text": {
+            "english": "Enjoy being reckless"
+        },
+        "R": "F"
+    },
+    {
+        "facet": "O5",
+        "text": {
+            "english": "Enjoy thinking about things"
+        },
+        "R": "F"
+    },
+    {
+        "facet": "A5",
+        "text": {
+            "english": "Believe that I am better than others"
+        },
+        "R": "R"
+    },
+    {
+        "facet": "C5",
+        "text": {
+            "english": "Carry out my plans"
+        },
+        "R": "F"
+    },
+    {
+        "facet": "N6",
+        "text": {
+            "english": "Get overwhelmed by emotions"
+        },
+        "R": "F"
+    },
+    {
+        "facet": "E6",
+        "text": {
+            "english": "Love life"
+        },
+        "R": "F"
+    },
+    {
+        "facet": "O6",
+        "text": {
+            "english": "Tend to vote for conservative political candidates"
+        },
+        "R": "R"
+    },
+    {
+        "facet": "A6",
+        "text": {
+            "english": "Am not interested in other people's problems"
+        },
+        "R": "R"
+    },
+    {
+        "facet": "C6",
+        "text": {
+            "english": "Make rash decisions"
+        },
+        "R": "R"
+    },
+    {
+        "facet": "N1",
+        "text": {
+            "english": "Am not easily bothered by things"
+        },
+        "R": "R"
+    },
+    {
+        "facet": "E1",
+        "text": {
+            "english": "Am hard to get to know"
+        },
+        "R": "R"
+    },
+    {
+        "facet": "O1",
+        "text": {
+            "english": "Spend time reflecting on things"
+        },
+        "R": "F"
+    },
+    {
+        "facet": "A1",
+        "text": {
+            "english": "Think that all will be well"
+        },
+        "R": "F"
+    },
+    {
+        "facet": "C1",
+        "text": {
+            "english": "Know how to get things done"
+        },
+        "R": "F"
+    },
+    {
+        "facet": "N2",
+        "text": {
+            "english": "Rarely get irritated"
+        },
+        "R": "R"
+    },
+    {
+        "facet": "E2",
+        "text": {
+            "english": "Prefer to be alone"
+        },
+        "R": "R"
+    },
+    {
+        "facet": "O2",
+        "text": {
+            "english": "Do not like art"
+        },
+        "R": "R"
+    },
+    {
+        "facet": "A2",
+        "text": {
+            "english": "Cheat to get ahead"
+        },
+        "R": "R"
+    },
+    {
+        "facet": "C2",
+        "text": {
+            "english": "Often forget to put things back in their proper place"
+        },
+        "R": "R"
+    },
+    {
+        "facet": "N3",
+        "text": {
+            "english": "Feel desperate"
+        },
+        "R": "F"
+    },
+    {
+        "facet": "E3",
+        "text": {
+            "english": "Wait for others to lead the way"
+        },
+        "R": "R"
+    },
+    {
+        "facet": "O3",
+        "text": {
+            "english": "Seldom get emotional"
+        },
+        "R": "R"
+    },
+    {
+        "facet": "A3",
+        "text": {
+            "english": "Look down on others"
+        },
+        "R": "R"
+    },
+    {
+        "facet": "C3",
+        "text": {
+            "english": "Break rules"
+        },
+        "R": "R"
+    },
+    {
+        "facet": "N4",
+        "text": {
+            "english": "Stumble over my words"
+        },
+        "R": "F"
+    },
+    {
+        "facet": "E4",
+        "text": {
+            "english": "Like to take it easy"
+        },
+        "R": "R"
+    },
+    {
+        "facet": "O4",
+        "text": {
+            "english": "Dislike changes"
+        },
+        "R": "R"
+    },
+    {
+        "facet": "A4",
+        "text": {
+            "english": "Love a good fight"
+        },
+        "R": "R"
+    },
+    {
+        "facet": "C4",
+        "text": {
+            "english": "Set high standards for myself and others"
+        },
+        "R": "F"
+    },
+    {
+        "facet": "N5",
+        "text": {
+            "english": "Rarely overindulge"
+        },
+        "R": "R"
+    },
+    {
+        "facet": "E5",
+        "text": {
+            "english": "Act wild and crazy"
+        },
+        "R": "F"
+    },
+    {
+        "facet": "O5",
+        "text": {
+            "english": "Am not interested in abstract ideas"
+        },
+        "R": "R"
+    },
+    {
+        "facet": "A5",
+        "text": {
+            "english": "Think highly of myself"
+        },
+        "R": "R"
+    },
+    {
+        "facet": "C5",
+        "text": {
+            "english": "Find it difficult to get down to work"
+        },
+        "R": "R"
+    },
+    {
+        "facet": "N6",
+        "text": {
+            "english": "Remain calm under pressure"
+        },
+        "R": "R"
+    },
+    {
+        "facet": "E6",
+        "text": {
+            "english": "Look at the bright side of life"
+        },
+        "R": "F"
+    },
+    {
+        "facet": "O6",
+        "text": {
+            "english": "Believe that too much tax money goes to support artists"
+        },
+        "R": "R"
+    },
+    {
+        "facet": "A6",
+        "text": {
+            "english": "Tend to dislike soft-hearted people"
+        },
+        "R": "R"
+    },
+    {
+        "facet": "C6",
+        "text": {
+            "english": "Like to act on a whim"
+        },
+        "R": "R"
+    },
+    {
+        "facet": "N1",
+        "text": {
+            "english": "Am relaxed most of the time"
+        },
+        "R": "R"
+    },
+    {
+        "facet": "E1",
+        "text": {
+            "english": "Often feel uncomfortable around others"
+        },
+        "R": "R"
+    },
+    {
+        "facet": "O1",
+        "text": {
+            "english": "Seldom daydream"
+        },
+        "R": "R"
+    },
+    {
+        "facet": "A1",
+        "text": {
+            "english": "Distrust people"
+        },
+        "R": "R"
+    },
+    {
+        "facet": "C1",
+        "text": {
+            "english": "Misjudge situations"
+        },
+        "R": "R"
+    },
+    {
+        "facet": "N2",
+        "text": {
+            "english": "Seldom get mad"
+        },
+        "R": "R"
+    },
+    {
+        "facet": "E2",
+        "text": {
+            "english": "Want to be left alone"
+        },
+        "R": "R"
+    },
+    {
+        "facet": "O2",
+        "text": {
+            "english": "Do not like poetry"
+        },
+        "R": "R"
+    },
+    {
+        "facet": "A2",
+        "text": {
+            "english": "Put people under pressure"
+        },
+        "R": "R"
+    },
+    {
+        "facet": "C2",
+        "text": {
+            "english": "Leave a mess in my room"
+        },
+        "R": "R"
+    },
+    {
+        "facet": "N3",
+        "text": {
+            "english": "Feel that my life lacks direction"
+        },
+        "R": "F"
+    },
+    {
+        "facet": "E3",
+        "text": {
+            "english": "Keep in the background"
+        },
+        "R": "R"
+    },
+    {
+        "facet": "O3",
+        "text": {
+            "english": "Am not easily affected by my emotions"
+        },
+        "R": "R"
+    },
+    {
+        "facet": "A3",
+        "text": {
+            "english": "Am indifferent to the feelings of others"
+        },
+        "R": "R"
+    },
+    {
+        "facet": "C3",
+        "text": {
+            "english": "Break my promises"
+        },
+        "R": "R"
+    },
+    {
+        "facet": "N4",
+        "text": {
+            "english": "Am not embarrassed easily"
+        },
+        "R": "R"
+    },
+    {
+        "facet": "E4",
+        "text": {
+            "english": "Like to take my time"
+        },
+        "R": "R"
+    },
+    {
+        "facet": "O4",
+        "text": {
+            "english": "Don't like the idea of change"
+        },
+        "R": "R"
+    },
+    {
+        "facet": "A4",
+        "text": {
+            "english": "Yell at people"
+        },
+        "R": "R"
+    },
+    {
+        "facet": "C4",
+        "text": {
+            "english": "Demand quality"
+        },
+        "R": "F"
+    },
+    {
+        "facet": "N5",
+        "text": {
+            "english": "Easily resist temptations"
+        },
+        "R": "R"
+    },
+    {
+        "facet": "E5",
+        "text": {
+            "english": "Willing to try anything once"
+        },
+        "R": "F"
+    },
+    {
+        "facet": "O5",
+        "text": {
+            "english": "Avoid philosophical discussions"
+        },
+        "R": "R"
+    },
+    {
+        "facet": "A5",
+        "text": {
+            "english": "Have a high opinion of myself"
+        },
+        "R": "R"
+    },
+    {
+        "facet": "C5",
+        "text": {
+            "english": "Waste my time"
+        },
+        "R": "R"
+    },
+    {
+        "facet": "N6",
+        "text": {
+            "english": "Can handle complex problems"
+        },
+        "R": "R"
+    },
+    {
+        "facet": "E6",
+        "text": {
+            "english": "Laugh aloud"
+        },
+        "R": "F"
+    },
+    {
+        "facet": "O6",
+        "text": {
+            "english": "Believe laws should be strictly enforced"
+        },
+        "R": "R"
+    },
+    {
+        "facet": "A6",
+        "text": {
+            "english": "Believe in an eye for an eye"
+        },
+        "R": "R"
+    },
+    {
+        "facet": "C6",
+        "text": {
+            "english": "Rush into things"
+        },
+        "R": "R"
+    },
+    {
+        "facet": "N1",
+        "text": {
+            "english": "Am not easily disturbed by events"
+        },
+        "R": "R"
+    },
+    {
+        "facet": "E1",
+        "text": {
+            "english": "Avoid contacts with others"
+        },
+        "R": "R"
+    },
+    {
+        "facet": "O1",
+        "text": {
+            "english": "Do not have a good imagination"
+        },
+        "R": "R"
+    },
+    {
+        "facet": "A1",
+        "text": {
+            "english": "Suspect hidden motives in others"
+        },
+        "R": "R"
+    },
+    {
+        "facet": "C1",
+        "text": {
+            "english": "Don't understand things"
+        },
+        "R": "R"
+    },
+    {
+        "facet": "N2",
+        "text": {
+            "english": "Am not easily annoyed"
+        },
+        "R": "R"
+    },
+    {
+        "facet": "E2",
+        "text": {
+            "english": "Don't like crowded events"
+        },
+        "R": "R"
+    },
+    {
+        "facet": "O2",
+        "text": {
+            "english": "Do not enjoy going to art museums"
+        },
+        "R": "R"
+    },
+    {
+        "facet": "A2",
+        "text": {
+            "english": "Pretend to be concerned for others"
+        },
+        "R": "R"
+    },
+    {
+        "facet": "C2",
+        "text": {
+            "english": "Leave my belongings around"
+        },
+        "R": "R"
+    },
+    {
+        "facet": "N3",
+        "text": {
+            "english": "Seldom feel blue"
+        },
+        "R": "R"
+    },
+    {
+        "facet": "E3",
+        "text": {
+            "english": "Have little to say"
+        },
+        "R": "R"
+    },
+    {
+        "facet": "O3",
+        "text": {
+            "english": "Rarely notice my emotional reactions"
+        },
+        "R": "R"
+    },
+    {
+        "facet": "A3",
+        "text": {
+            "english": "Make people feel uncomfortable"
+        },
+        "R": "R"
+    },
+    {
+        "facet": "C3",
+        "text": {
+            "english": "Get others to do my duties"
+        },
+        "R": "R"
+    },
+    {
+        "facet": "N4",
+        "text": {
+            "english": "Am comfortable in unfamiliar situations"
+        },
+        "R": "R"
+    },
+    {
+        "facet": "E4",
+        "text": {
+            "english": "Like a leisurely lifestyle"
+        },
+        "R": "R"
+    },
+    {
+        "facet": "O4",
+        "text": {
+            "english": "Am a creature of habit"
+        },
+        "R": "R"
+    },
+    {
+        "facet": "A4",
+        "text": {
+            "english": "Insult people"
+        },
+        "R": "R"
+    },
+    {
+        "facet": "C4",
+        "text": {
+            "english": "Am not highly motivated to succeed"
+        },
+        "R": "R"
+    },
+    {
+        "facet": "N5",
+        "text": {
+            "english": "Am able to control my cravings"
+        },
+        "R": "R"
+    },
+    {
+        "facet": "E5",
+        "text": {
+            "english": "Seek danger"
+        },
+        "R": "F"
+    },
+    {
+        "facet": "O5",
+        "text": {
+            "english": "Have difficulty understanding abstract ideas"
+        },
+        "R": "R"
+    },
+    {
+        "facet": "A5",
+        "text": {
+            "english": "Know the answers to many questions"
+        },
+        "R": "R"
+    },
+    {
+        "facet": "C5",
+        "text": {
+            "english": "Need a push to get started"
+        },
+        "R": "R"
+    },
+    {
+        "facet": "N6",
+        "text": {
+            "english": "Know how to cope"
+        },
+        "R": "R"
+    },
+    {
+        "facet": "E6",
+        "text": {
+            "english": "Amuse my friends"
+        },
+        "R": "F"
+    },
+    {
+        "facet": "O6",
+        "text": {
+            "english": "Believe that we coddle criminals too much"
+        },
+        "R": "R"
+    },
+    {
+        "facet": "A6",
+        "text": {
+            "english": "Try not to think about the needy"
+        },
+        "R": "R"
+    },
+    {
+        "facet": "C6",
+        "text": {
+            "english": "Do crazy things"
+        },
+        "R": "R"
+    },
+    {
+        "facet": "N1",
+        "text": {
+            "english": "Don't worry about things that have already happened"
+        },
+        "R": "R"
+    },
+    {
+        "facet": "E1",
+        "text": {
+            "english": "Am not really interested in others"
+        },
+        "R": "R"
+    },
+    {
+        "facet": "O1",
+        "text": {
+            "english": "Seldom get lost in thought"
+        },
+        "R": "R"
+    },
+    {
+        "facet": "A1",
+        "text": {
+            "english": "Am wary of others"
+        },
+        "R": "R"
+    },
+    {
+        "facet": "C1",
+        "text": {
+            "english": "Have little to contribute"
+        },
+        "R": "R"
+    },
+    {
+        "facet": "N2",
+        "text": {
+            "english": "Keep my cool"
+        },
+        "R": "R"
+    },
+    {
+        "facet": "E2",
+        "text": {
+            "english": "Avoid crowds"
+        },
+        "R": "R"
+    },
+    {
+        "facet": "O2",
+        "text": {
+            "english": "Do not like concerts"
+        },
+        "R": "R"
+    },
+    {
+        "facet": "A2",
+        "text": {
+            "english": "Take advantage of others"
+        },
+        "R": "R"
+    },
+    {
+        "facet": "C2",
+        "text": {
+            "english": "Am not bothered by messy people"
+        },
+        "R": "R"
+    },
+    {
+        "facet": "N3",
+        "text": {
+            "english": "Feel comfortable with myself"
+        },
+        "R": "R"
+    },
+    {
+        "facet": "E3",
+        "text": {
+            "english": "Don't like to draw attention to myself"
+        },
+        "R": "R"
+    },
+    {
+        "facet": "O3",
+        "text": {
+            "english": "Experience very few emotional highs and lows"
+        },
+        "R": "R"
+    },
+    {
+        "facet": "A3",
+        "text": {
+            "english": "Turn my back on others"
+        },
+        "R": "R"
+    },
+    {
+        "facet": "C3",
+        "text": {
+            "english": "Do the opposite of what is asked"
+        },
+        "R": "R"
+    },
+    {
+        "facet": "N4",
+        "text": {
+            "english": "Am not bothered by difficult social situations"
+        },
+        "R": "R"
+    },
+    {
+        "facet": "E4",
+        "text": {
+            "english": "Let things proceed at their own pace"
+        },
+        "R": "R"
+    },
+    {
+        "facet": "O4",
+        "text": {
+            "english": "Dislike new foods"
+        },
+        "R": "R"
+    },
+    {
+        "facet": "A4",
+        "text": {
+            "english": "Get back at others"
+        },
+        "R": "R"
+    },
+    {
+        "facet": "C4",
+        "text": {
+            "english": "Do just enough work to get by"
+        },
+        "R": "R"
+    },
+    {
+        "facet": "N5",
+        "text": {
+            "english": "Never spend more than I can afford"
+        },
+        "R": "R"
+    },
+    {
+        "facet": "E5",
+        "text": {
+            "english": "Would never go hang gliding or bungee jumping"
+        },
+        "R": "R"
+    },
+    {
+        "facet": "O5",
+        "text": {
+            "english": "Am not interested in theoretical discussions"
+        },
+        "R": "R"
+    },
+    {
+        "facet": "A5",
+        "text": {
+            "english": "Boast about my virtues"
+        },
+        "R": "R"
+    },
+    {
+        "facet": "C5",
+        "text": {
+            "english": "Have difficulty starting tasks"
+        },
+        "R": "R"
+    },
+    {
+        "facet": "N6",
+        "text": {
+            "english": "Readily overcome setbacks"
+        },
+        "R": "R"
+    },
+    {
+        "facet": "E6",
+        "text": {
+            "english": "Am not easily amused"
+        },
+        "R": "R"
+    },
+    {
+        "facet": "O6",
+        "text": {
+            "english": "Believe that we should be tough on crime"
+        },
+        "R": "R"
+    },
+    {
+        "facet": "A6",
+        "text": {
+            "english": "Believe people should fend for themselves"
+        },
+        "R": "R"
+    },
+    {
+        "facet": "C6",
+        "text": {
+            "english": "Act without thinking"
+        },
+        "R": "R"
+    },
+    {
+        "facet": "N1",
+        "text": {
+            "english": "Adapt easily to new situations"
+        },
+        "R": "R"
+    },
+    {
+        "facet": "E1",
+        "text": {
+            "english": "Keep others at a distance"
+        },
+        "R": "R"
+    },
+    {
+        "facet": "O1",
+        "text": {
+            "english": "Have difficulty imagining things"
+        },
+        "R": "R"
+    },
+    {
+        "facet": "A1",
+        "text": {
+            "english": "Believe that people are essentially evil"
+        },
+        "R": "R"
+    },
+    {
+        "facet": "C1",
+        "text": {
+            "english": "Don't see the consequences of things"
+        },
+        "R": "R"
+    },
+    {
+        "facet": "N2",
+        "text": {
+            "english": "Rarely complain"
+        },
+        "R": "R"
+    },
+    {
+        "facet": "E2",
+        "text": {
+            "english": "Seek quiet"
+        },
+        "R": "R"
+    },
+    {
+        "facet": "O2",
+        "text": {
+            "english": "Do not enjoy watching dance performances"
+        },
+        "R": "R"
+    },
+    {
+        "facet": "A2",
+        "text": {
+            "english": "Obstruct others' plans"
+        },
+        "R": "R"
+    },
+    {
+        "facet": "C2",
+        "text": {
+            "english": "Am not bothered by disorder"
+        },
+        "R": "R"
+    },
+    {
+        "facet": "N3",
+        "text": {
+            "english": "Am very pleased with myself"
+        },
+        "R": "R"
+    },
+    {
+        "facet": "E3",
+        "text": {
+            "english": "Hold back my opinions"
+        },
+        "R": "R"
+    },
+    {
+        "facet": "O3",
+        "text": {
+            "english": "Don't understand people who get emotional"
+        },
+        "R": "R"
+    },
+    {
+        "facet": "A3",
+        "text": {
+            "english": "Take no time for others"
+        },
+        "R": "R"
+    },
+    {
+        "facet": "C3",
+        "text": {
+            "english": "Misrepresent the facts"
+        },
+        "R": "R"
+    },
+    {
+        "facet": "N4",
+        "text": {
+            "english": "Am able to stand up for myself"
+        },
+        "R": "R"
+    },
+    {
+        "facet": "E4",
+        "text": {
+            "english": "React slowly"
+        },
+        "R": "R"
+    },
+    {
+        "facet": "O4",
+        "text": {
+            "english": "Am attached to conventional ways"
+        },
+        "R": "R"
+    },
+    {
+        "facet": "A4",
+        "text": {
+            "english": "Hold a grudge"
+        },
+        "R": "R"
+    },
+    {
+        "facet": "C4",
+        "text": {
+            "english": "Put little time and effort into my work"
+        },
+        "R": "R"
+    },
+    {
+        "facet": "N5",
+        "text": {
+            "english": "Never splurge"
+        },
+        "R": "R"
+    },
+    {
+        "facet": "E5",
+        "text": {
+            "english": "Dislike loud music"
+        },
+        "R": "R"
+    },
+    {
+        "facet": "O5",
+        "text": {
+            "english": "Avoid difficult reading material"
+        },
+        "R": "R"
+    },
+    {
+        "facet": "A5",
+        "text": {
+            "english": "Make myself the center of attention"
+        },
+        "R": "R"
+    },
+    {
+        "facet": "C5",
+        "text": {
+            "english": "Postpone decisions"
+        },
+        "R": "R"
+    },
+    {
+        "facet": "N6",
+        "text": {
+            "english": "Am calm even in tense situations"
+        },
+        "R": "R"
+    },
+    {
+        "facet": "E6",
+        "text": {
+            "english": "Seldom joke around"
+        },
+        "R": "R"
+    },
+    {
+        "facet": "O6",
+        "text": {
+            "english": "Like to stand during the national anthem"
+        },
+        "R": "R"
+    },
+    {
+        "facet": "A6",
+        "text": {
+            "english": "Can't stand weak people"
+        },
+        "R": "R"
+    },
+    {
+        "facet": "C6",
+        "text": {
+            "english": "Often make last-minute plans"
+        },
+        "R": "R"
+    }
+]

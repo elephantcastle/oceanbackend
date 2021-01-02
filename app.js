@@ -5,6 +5,9 @@ const http = require('http');
 const cors = require('cors');
 const dotenv = require('dotenv');
 dotenv.config();
+const fs = require("fs");
+let testdata = JSON.parse(fs.readFileSync("./data/testdata.json"));
+let testdata300 = JSON.parse(fs.readFileSync("./data/testdata300.json"));
 
 let test = require('./routes/test');
 const app = express();
@@ -28,6 +31,13 @@ app.use(bodyParser.urlencoded({'extended':'false'}));
 
 app.use('/test', test);
 
+app.get('/testdata', function (req, res, next) {
+    res.json(testdata);
+});
+
+app.get('/testdata300', function (req, res, next) {
+  res.json(testdata300);
+});
 
 // catch 404 and forward to error handler
 app.use(function(req, res, next) {

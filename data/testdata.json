@@ -1,0 +1,1322 @@
+[
+    {
+        "facet": "N1",
+        "R": "F",
+        "text": {
+            "english": "Worry about things",
+            "deutsch": "Ich mache mir oft Sorgen",
+            "italian": "Tendo a preoccuparmi",
+            "french": "Je m'inqui\u00e8te \u00e0 propos de choses",
+            "spanish": "Me preocupo por las cosas"
+        }
+    },
+    {
+        "facet": "E1",
+        "R": "F",
+        "text": {
+            "english": "Make friends easily",
+            "deutsch": "Ich gewinne leicht Freunde",
+            "italian": "Faccio amicizia facilmente",
+            "french": "Je me fais des amis facilement",
+            "spanish": "Creo que hago amigos f\u00e1cilmente"
+        }
+    },
+    {
+        "facet": "O1",
+        "R": "F",
+        "text": {
+            "english": "Have a vivid imagination",
+            "deutsch": "Ich habe eine bl\u00fchende Fantasie",
+            "italian": "Ho una vivida immaginazione",
+            "french": "J'ai une imagination d\u00e9bordante",
+            "spanish": "Tengo una imaginaci\u00f3n v\u00edvida"
+        }
+    },
+    {
+        "facet": "A1",
+        "R": "F",
+        "text": {
+            "english": "Trust others",
+            "deutsch": "Ich vertraue anderen",
+            "italian": "Tendo a fidarmi degli altri",
+            "french": "Je fais confiance aux autres",
+            "spanish": "Conf\u00edo en los dem\u00e1s"
+        }
+    },
+    {
+        "facet": "C1",
+        "R": "F",
+        "text": {
+            "english": "Complete tasks successfully",
+            "deutsch": "Ich erledige Aufgaben erfolgreich",
+            "italian": "Porto a termine con successo i miei compiti",
+            "french": "Je compl\u00e8te les t\u00e2ches avec succ\u00e8s",
+            "spanish": "Completo las tareas correctamente"
+        }
+    },
+    {
+        "facet": "N2",
+        "R": "F",
+        "text": {
+            "english": "Get angry easily",
+            "deutsch": "Ich bin schnell ver\u00e4rgert",
+            "italian": "Mi arrabbio facilmente",
+            "french": "Je me mets en col\u00e8re facilement",
+            "spanish": "Suelo enojarme f\u00e1cilmente"
+        }
+    },
+    {
+        "facet": "E2",
+        "R": "F",
+        "text": {
+            "english": "Love large parties",
+            "deutsch": "Ich gehe gern auf gro\u00dfe Parties",
+            "italian": "Mi piacciono le grandi feste",
+            "french": "J'adore les grandes f\u00eates",
+            "spanish": "Me encantan las fiestas grandes"
+        }
+    },
+    {
+        "facet": "O2",
+        "R": "F",
+        "text": {
+            "english": "Believe in the importance of art",
+            "deutsch": "Ich glaube, dass Kunst wichtig ist",
+            "italian": "Credo nell'importanza dell'arte",
+            "french": "Je crois en l'importance de l'art",
+            "spanish": "Creo que el arte es importante"
+        }
+    },
+    {
+        "facet": "A2",
+        "R": "R",
+        "text": {
+            "english": "Use others for my own ends",
+            "deutsch": "Ich benutze und manipuliere andere, um meine Ziele zu erreichen",
+            "italian": "Sfrutto gli altri per perseguire i miei fini",
+            "french": "J'utilise les autres pour mes propres fins",
+            "spanish": "Colaboro con otros solo si obtengo alg\u00fan beneficio propio"
+        }
+    },
+    {
+        "facet": "C2",
+        "R": "F",
+        "text": {
+            "english": "Like to tidy up",
+            "deutsch": "Ich mag keine Unordnung - Ich r\u00e4ume gern auf",
+            "italian": "Mi piace mettere in ordine le cose",
+            "french": "J'aime faire du rangement",
+            "spanish": "Me gusta mantener las cosas en orden"
+        }
+    },
+    {
+        "facet": "N3",
+        "R": "F",
+        "text": {
+            "english": "Often feel blue",
+            "deutsch": "Ich bin oft betr\u00fcbt",
+            "italian": "Mi sento spesso triste",
+            "french": "Je me sens souvent triste",
+            "spanish": "A menudo me siento triste"
+        }
+    },
+    {
+        "facet": "E3",
+        "R": "F",
+        "text": {
+            "english": "Take charge",
+            "deutsch": "Ich \u00fcbernehme in Situationen und bei Ereignissen gern die F\u00fchrung",
+            "italian": "Prendo il controllo delle situazioni",
+            "french": "J'aime prendre en charge",
+            "spanish": "Me gusta estar a cargo de las decisiones"
+        }
+    },
+    {
+        "facet": "O3",
+        "R": "F",
+        "text": {
+            "english": "Experience my emotions intensely",
+            "deutsch": "Meine Gef\u00fchlswelt ist sehr intensiv",
+            "italian": "Vivo le mie emozioni intensamente",
+            "french": "Je vis mes \u00e9motions intens\u00e9ment",
+            "spanish": "Considero que soy muy sentimental"
+        }
+    },
+    {
+        "facet": "A3",
+        "R": "F",
+        "text": {
+            "english": "Love to help others",
+            "deutsch": "Ich helfe gern anderen",
+            "italian": "Mi piace aiutare gli altri",
+            "french": "J'adore aider les autres",
+            "spanish": "Me siento a gusto ayudando a los dem\u00e1s"
+        }
+    },
+    {
+        "facet": "C3",
+        "R": "F",
+        "text": {
+            "english": "Keep my promises",
+            "deutsch": "Ich halte, was ich verspreche",
+            "italian": "Mantengo le mie promesse",
+            "french": "Je tiens mes promesses",
+            "spanish": "Siempre cumplo mis promesas"
+        }
+    },
+    {
+        "facet": "N4",
+        "R": "F",
+        "text": {
+            "english": "Find it difficult to approach others",
+            "deutsch": "Es f\u00e4llt mir schwer, auf andere zuzugehen",
+            "italian": "Faccio difficolt\u00e0 ad approcciarmi con gli altri",
+            "french": "J'\u00e9prouve de la difficult\u00e9 \u00e0 aborder les autres",
+            "spanish": "Tengo dificultades para acercarme a los dem\u00e1s"
+        }
+    },
+    {
+        "facet": "E4",
+        "R": "F",
+        "text": {
+            "english": "I am always busy",
+            "deutsch": "Ich bin st\u00e4ndig besch\u00e4ftigt \u2013 bin immer auf dem Sprung",
+            "italian": "Sono sempre impegnato",
+            "french": "Je suis toujours occup\u00e9",
+            "spanish": "Estoy ocupado/a todo el tiempo"
+        }
+    },
+    {
+        "facet": "O4",
+        "R": "F",
+        "text": {
+            "english": "Prefer variety to routine",
+            "deutsch": "Ich mag Abwechslung lieber als Routine",
+            "italian": "Preferisco la novit\u00e0 alla routine",
+            "french": "Je pr\u00e9f\u00e8re la vari\u00e9t\u00e9 \u00e0 la routine",
+            "spanish": "Prefiero la variedad antes que la rutina"
+        }
+    },
+    {
+        "facet": "A4",
+        "R": "R",
+        "text": {
+            "english": "Love a good fight",
+            "deutsch": "Ich mag lebhafte Diskussionen \u2013 gute Streitgespr\u00e4che",
+            "italian": "Mi piace la competizione",
+            "french": "J'adore une bonne bagarre",
+            "spanish": "Me gusta pelear"
+        }
+    },
+    {
+        "facet": "C4",
+        "R": "F",
+        "text": {
+            "english": "Work hard",
+            "deutsch": "Ich arbeite hart",
+            "italian": "Lavoro sodo",
+            "french": "Je travaille dur",
+            "spanish": "Siempre trabajo duro"
+        }
+    },
+    {
+        "facet": "N5",
+        "R": "F",
+        "text": {
+            "english": "Go on binges",
+            "deutsch": "Ich mache gerne einen drauf",
+            "italian": "Mi piace far baldoria",
+            "french": "Je fais des exc\u00e8s",
+            "spanish": "A menudo voy de borracheras"
+        }
+    },
+    {
+        "facet": "E5",
+        "R": "F",
+        "text": {
+            "english": "Love excitement",
+            "deutsch": "Ich mag es lebhaft und aufregend",
+            "italian": "Mi piace entusiasmarmi",
+            "french": "J'adore les sensations fortes",
+            "spanish": "Amo la emoci\u00f3n"
+        }
+    },
+    {
+        "facet": "O5",
+        "R": "F",
+        "text": {
+            "english": "Love to read challenging material",
+            "deutsch": "Ich lese gern anspruchsvolle B\u00fccher und Artikel",
+            "italian": "Mi piace fare letture impegnative",
+            "french": "J'adore lire des documents stimulants",
+            "spanish": "Me gusta mucho leer"
+        }
+    },
+    {
+        "facet": "A5",
+        "R": "R",
+        "text": {
+            "english": "Believe that I am better than others",
+            "deutsch": "Ich glaube, dass ich besser als andere bin",
+            "italian": "Mi reputo migliore degli altri",
+            "french": "Je crois \u00eatre meilleur que les autres",
+            "spanish": "Creo que soy mejor que los dem\u00e1s"
+        }
+    },
+    {
+        "facet": "C5",
+        "R": "F",
+        "text": {
+            "english": "I am always prepared",
+            "deutsch": "Ich bin immer vorbereitet",
+            "italian": "Sono sempre preparato",
+            "french": "Je suis toujours pr\u00e9par\u00e9",
+            "spanish": "Siempre estoy preparado"
+        }
+    },
+    {
+        "facet": "N6",
+        "R": "F",
+        "text": {
+            "english": "Panic easily",
+            "deutsch": "Ich gerate leicht in Panik",
+            "italian": "Vado facilmente nel panico",
+            "french": "Je panique facilement",
+            "spanish": "Me asusto f\u00e1cilmente"
+        }
+    },
+    {
+        "facet": "E6",
+        "R": "F",
+        "text": {
+            "english": "Radiate joy",
+            "deutsch": "Ich bin ein wirklich fr\u00f6hlicher Mensch",
+            "italian": "Sono un tipo raggiante di gioia",
+            "french": "Je respire la joie",
+            "spanish": "Soy una persona muy alegre"
+        }
+    },
+    {
+        "facet": "O6",
+        "R": "F",
+        "text": {
+            "english": "Tend to vote for liberal political candidates",
+            "deutsch": "Ich tendiere dazu, politische Kandidaten zu unterst\u00fctzen, die Fortschritt und Reformen zum Ziel haben",
+            "italian": "Tendo a votare candidati politici liberali",
+            "french": "J\u2019ai tendance \u00e0 promouvoir des valeurs sociales traditionnelles",
+            "spanish": "Tiendo a votar por candidatos pol\u00edticos liberales"
+        }
+    },
+    {
+        "facet": "A6",
+        "R": "F",
+        "text": {
+            "english": "Sympathize with the homeless",
+            "deutsch": "Ich habe Mitleid mit Obdachlosen",
+            "italian": "Sono empatico nei confronti dei senzatetto",
+            "french": "Je sympathise avec les sans-abri",
+            "spanish": "Me compadezco por la gente sin hogar"
+        }
+    },
+    {
+        "facet": "C6",
+        "R": "R",
+        "text": {
+            "english": "Jump into things without thinking",
+            "deutsch": "Ich handle oft spontan, ohne nachzudenken",
+            "italian": "Mi butto sulle cose senza riflettere",
+            "french": "Je me lance dans des choses sans r\u00e9fl\u00e9chir",
+            "spanish": "Hago las cosas sin razonar mucho sobre ellas"
+        }
+    },
+    {
+        "facet": "N1",
+        "R": "F",
+        "text": {
+            "english": "Fear for the worst",
+            "deutsch": "Ich bef\u00fcrchte immer das Schlimmste",
+            "italian": "Temo sempre il peggio",
+            "french": "Je crains le pire",
+            "spanish": "Temo que suceda lo peor"
+        }
+    },
+    {
+        "facet": "E1",
+        "R": "F",
+        "text": {
+            "english": "Feel comfortable around other people",
+            "deutsch": "Ich f\u00fchle mich wohl, wenn ich unter Menschen bin",
+            "italian": "Mi sento a mio agio in mezzo alla gente",
+            "french": "Je me sens confortable avec les gens",
+            "spanish": "Me siento c\u00f3modo con la gente"
+        }
+    },
+    {
+        "facet": "O1",
+        "R": "F",
+        "text": {
+            "english": "Enjoy wild flights of fancy",
+            "deutsch": "Ich genie\u00dfe es, meiner Phantasie freien Lauf zu lassen",
+            "italian": "Mi piace fare voli pindarici",
+            "french": "J'aime me perdre dans mes id\u00e9es",
+            "spanish": "Disfruto de fant\u00e1sticos vuelos de fantas\u00eda"
+        }
+    },
+    {
+        "facet": "A1",
+        "R": "F",
+        "text": {
+            "english": "Believe that others have good intentions",
+            "deutsch": "Ich glaube, dass Menschen grunds\u00e4tzlich gute Absichten haben",
+            "italian": "Credo nella buona fede degli altri",
+            "french": "Je crois que les autres ont de bonnes intentions",
+            "spanish": "Creo que las personas tienen buenas intenciones"
+        }
+    },
+    {
+        "facet": "C1",
+        "R": "F",
+        "text": {
+            "english": "Excel in what I do",
+            "deutsch": "Was ich mache, mache ich immer gut",
+            "italian": "Eccello in quello che faccio",
+            "french": "J'excelle dans ce que je fais",
+            "spanish": "Soy muy bueno en lo que hago"
+        }
+    },
+    {
+        "facet": "N2",
+        "R": "F",
+        "text": {
+            "english": "Get irritated easily",
+            "deutsch": "Ich bin schnell gereizt",
+            "italian": "Mi irrito facilmente",
+            "french": "Je suis irritable facilement",
+            "spanish": "Me suelo molestar con facilidad"
+        }
+    },
+    {
+        "facet": "E2",
+        "R": "F",
+        "text": {
+            "english": "Talk to a lot of different people at parties",
+            "deutsch": "Ich unterhalte mich auf Partys immer mit vielen unterschiedlichen Leuten",
+            "italian": "Parlo con molte persone alle feste",
+            "french": "Je parle \u00e0 beaucoup de personnes dans les f\u00eates",
+            "spanish": "Me gusta hablar con muchas personas en las fiestas"
+        }
+    },
+    {
+        "facet": "O2",
+        "R": "F",
+        "text": {
+            "english": "See beauty in things that others might not notice",
+            "deutsch": "Ich sehe die Sch\u00f6nheit in Dingen, die anderen vielleicht gar nicht auffallen",
+            "italian": "Vedo la bellezza in cose che gli altri potrebbero non notare nemmeno",
+            "french": "Je vois une beaut\u00e9 dans les choses que d'autres pourraient ne pas remarquer",
+            "spanish": "Veo belleza en cosas que otros podr\u00edan no notar"
+        }
+    },
+    {
+        "facet": "A2",
+        "R": "R",
+        "text": {
+            "english": "Cheat to get ahead",
+            "deutsch": "Ich scheue mich nicht zu betr\u00fcgen, um voranzukommen",
+            "italian": "Baro per andare avanti",
+            "french": "Je triche pour avancer",
+            "spanish": "Podr\u00eda hacer trampa si eso me lleva adelante"
+        }
+    },
+    {
+        "facet": "C2",
+        "R": "R",
+        "text": {
+            "english": "Often forget to put things back in their proper place",
+            "deutsch": "Ich vergesse oft, Dinge wieder an ihren Platz zur\u00fcckzustellen",
+            "italian": "Mi dimentico spesso di rimettere le cose al loro posto",
+            "french": "J'oublie souvent de remettre les choses \u00e0 leur place",
+            "spanish": "A menudo olvido poner las cosas de vuelta donde las tom\u00e9"
+        }
+    },
+    {
+        "facet": "N3",
+        "R": "F",
+        "text": {
+            "english": "Dislike myself",
+            "deutsch": "Ich mag mich selbst nicht",
+            "italian": "Non mi piaccio",
+            "french": "Je n'ai pas beaucoup d'estime pour moi",
+            "spanish": "No me siento bien conmigo mismo"
+        }
+    },
+    {
+        "facet": "E3",
+        "R": "F",
+        "text": {
+            "english": "Try to lead others",
+            "deutsch": "Ich \u00fcbernehme gerne die F\u00fchrung von anderen",
+            "italian": "Cerco di guidare gli altri",
+            "french": "J'essaie de diriger les autres",
+            "spanish": "Intento dirigir a los dem\u00e1s"
+        }
+    },
+    {
+        "facet": "O3",
+        "R": "F",
+        "text": {
+            "english": "Feel others emotions",
+            "deutsch": "Ich bin ein sehr einf\u00fchlsamer Mensch und ich sp\u00fcre die Gef\u00fchle anderer",
+            "italian": "Percepisco le emozioni degli altri",
+            "french": "Je ressens les \u00e9motions des autres",
+            "spanish": "Puedo comprender bien las emociones de los dem\u00e1s"
+        }
+    },
+    {
+        "facet": "A3",
+        "R": "F",
+        "text": {
+            "english": "I am concerned about others",
+            "deutsch": "Ich bin besorgt um andere",
+            "italian": "Mi preoccupo per gli altri",
+            "french": "Je me pr\u00e9occupe des autres",
+            "spanish": "Me preocupo por los dem\u00e1s"
+        }
+    },
+    {
+        "facet": "C3",
+        "R": "F",
+        "text": {
+            "english": "Tell the truth",
+            "deutsch": "Ich sage die Wahrheit",
+            "italian": "Sono sincero",
+            "french": "Je dis la v\u00e9rit\u00e9",
+            "spanish": "Siempre digo la verdad"
+        }
+    },
+    {
+        "facet": "N4",
+        "R": "F",
+        "text": {
+            "english": "I am afraid to draw attention to myself",
+            "deutsch": "Ich mag es nicht, Aufmerksamkeit auf mich zu ziehen",
+            "italian": "Ho paura di attirare l'attenzione su di me",
+            "french": "J'ai peur d'attirer l'attention",
+            "spanish": "Temo ser el centro de atenci\u00f3n"
+        }
+    },
+    {
+        "facet": "E4",
+        "R": "F",
+        "text": {
+            "english": "I am always on the go",
+            "deutsch": "Ich sitze nie still \u2013 Ich bin immer auf dem Sprung",
+            "italian": "Sono sempre in movimento",
+            "french": "Je suis toujours en mouvement",
+            "spanish": "Creo que soy una persona activa y vigorosa"
+        }
+    },
+    {
+        "facet": "O4",
+        "R": "R",
+        "text": {
+            "english": "Prefer to stick with things that I know",
+            "deutsch": "Ich halte mich gern an das, was ich kenne",
+            "italian": "Preferisco limitarmi a ci\u00f2 che conosco",
+            "french": "Je pr\u00e9f\u00e8re m'en tenir aux choses connues",
+            "spanish": "Prefiero quedarme cosas que conozco"
+        }
+    },
+    {
+        "facet": "A4",
+        "R": "R",
+        "text": {
+            "english": "Yell at people",
+            "deutsch": "Ich schreie andere an",
+            "italian": "Urlo alle persone",
+            "french": "Je crie apr\u00e8s les gens",
+            "spanish": "Suelo gritar a las personas"
+        }
+    },
+    {
+        "facet": "C4",
+        "R": "F",
+        "text": {
+            "english": "Do more than what's expected of me",
+            "deutsch": "Ich leiste mehr, als man von mir erwartet",
+            "italian": "Faccio pi\u00f9 di quello che gli altri si aspettano da me",
+            "french": "Je fais plus que ce que l'on attend de moi",
+            "spanish": "Hago m\u00e1s de lo que se espera de m\u00ed"
+        }
+    },
+    {
+        "facet": "N5",
+        "R": "R",
+        "text": {
+            "english": "Rarely overindulge",
+            "deutsch": "Ich betreibe selten V\u00f6llerei",
+            "italian": "Raramente esagero",
+            "french": "Je fais rarement des exc\u00e8s",
+            "spanish": "Rara vez me dejo llevar"
+        }
+    },
+    {
+        "facet": "E5",
+        "R": "F",
+        "text": {
+            "english": "Seek adventure",
+            "deutsch": "Ich suche das Abenteuer",
+            "italian": "Sono avventuroso",
+            "french": "Je recherche l'aventure",
+            "spanish": "Siempre busco la aventura"
+        }
+    },
+    {
+        "facet": "O5",
+        "R": "R",
+        "text": {
+            "english": "Avoid philosophical discussions",
+            "deutsch": "Ich vermeide philosophische Diskussionen",
+            "italian": "Evito discussioni filosofiche",
+            "french": "J'\u00e9vite les discussions philosophiques",
+            "spanish": "Intento evitar discusiones filos\u00f3ficas"
+        }
+    },
+    {
+        "facet": "A5",
+        "R": "R",
+        "text": {
+            "english": "Think highly of myself",
+            "deutsch": "Ich halte sehr viel von mir",
+            "italian": "Ho un'alta stima di me stesso",
+            "french": "J'ai une tr\u00e8s grande estime de moi-m\u00eame",
+            "spanish": "Espero mucho de m\u00ed mismo"
+        }
+    },
+    {
+        "facet": "C5",
+        "R": "F",
+        "text": {
+            "english": "Carry out my plans",
+            "deutsch": "Ich erledige meine Arbeit und f\u00fchre meine Pl\u00e4ne aus",
+            "italian": "Metto a segno i miei piani",
+            "french": "Je r\u00e9alise mes objectifs",
+            "spanish": "Llevo a cabo mis planes"
+        }
+    },
+    {
+        "facet": "N6",
+        "R": "F",
+        "text": {
+            "english": "Become overwhelmed by events",
+            "deutsch": "Ich werde von Ereignissen \u00fcberw\u00e4ltigt",
+            "italian": "Vengo sopraffatto dagli eventi",
+            "french": "Je me sens d\u00e9pass\u00e9 par les \u00e9v\u00e9nements",
+            "spanish": "Me abrumo f\u00e1cilmente de las cosas que suceden alrededor"
+        }
+    },
+    {
+        "facet": "E6",
+        "R": "F",
+        "text": {
+            "english": "Have a lot of fun",
+            "deutsch": "Ich habe viel Spa\u00df",
+            "italian": "Mi diverto molto",
+            "french": "J'ai beaucoup de plaisir",
+            "spanish": "Pienso que soy una persona muy divertida"
+        }
+    },
+    {
+        "facet": "O6",
+        "R": "F",
+        "text": {
+            "english": "Believe that there is no absolute right or wrong",
+            "deutsch": "Ich glaube, dass es kein \u201eabsolut richtig\u201c oder \u201eabsolut falsch\u201c gibt",
+            "italian": "Non credo nel male e nel bene assoluti",
+            "french": "Je crois qu'il n'y a pas de bon ou de mauvais absolu",
+            "spanish": "No creo que haya acciones completamente correctas o incorrectas"
+        }
+    },
+    {
+        "facet": "A6",
+        "R": "F",
+        "text": {
+            "english": "Feel sympathy for those who are worse off than myself",
+            "deutsch": "Ich habe Mitleid mit Leuten, denen es schlechter geht als mir",
+            "italian": "Provo empatia per le persone inferiori a me",
+            "french": "J'ai de la sympathie pour les gens plus d\u00e9munis que moi",
+            "spanish": "Siento simpat\u00eda por aquellos que se encuentran en peores situaciones que yo"
+        }
+    },
+    {
+        "facet": "C6",
+        "R": "R",
+        "text": {
+            "english": "Make rash decisions",
+            "deutsch": "Ich treffe voreilige Entscheidungen",
+            "italian": "Prendo decisioni affrettate",
+            "french": "Je prends des d\u00e9cisions impulsives",
+            "spanish": "Suelo tomar decisiones precipitadas"
+        }
+    },
+    {
+        "facet": "N1",
+        "R": "F",
+        "text": {
+            "english": "I am afraid of many things",
+            "deutsch": "Ich habe vor vielen Dingen Angst",
+            "italian": "Ho molte paure",
+            "french": "J'ai peur de beaucoup de choses",
+            "spanish": "Tengo miedo de muchas cosas"
+        }
+    },
+    {
+        "facet": "E1",
+        "R": "R",
+        "text": {
+            "english": "Avoid contacts with others",
+            "deutsch": "Ich vermeide, wenn m\u00f6glich, bewusst den Kontakt mit anderen Menschen",
+            "italian": "Evito il contatto con le persone",
+            "french": "J'\u00e9vite le contact avec les autres",
+            "spanish": "A menudo evito el contacto con los dem\u00e1s"
+        }
+    },
+    {
+        "facet": "O1",
+        "R": "F",
+        "text": {
+            "english": "Love to daydream",
+            "deutsch": "Ich mag tagtr\u00e4umen",
+            "italian": "Mi piace sognare ad occhi aperti",
+            "french": "J'adore r\u00eavasser",
+            "spanish": "Soy una persona que a veces sue\u00f1a despierta"
+        }
+    },
+    {
+        "facet": "A1",
+        "R": "F",
+        "text": {
+            "english": "Trust what people say",
+            "deutsch": "Ich glaube, was Leute sagen",
+            "italian": "Mi fido di quello che dicono le persone",
+            "french": "J'ai confiance en ce que les gens disent",
+            "spanish": "Conf\u00edo en lo que dicen las personas"
+        }
+    },
+    {
+        "facet": "C1",
+        "R": "F",
+        "text": {
+            "english": "Handle tasks smoothly",
+            "deutsch": "Ich erledige Aufgaben reibungslos",
+            "italian": "Gestisco il lavoro senza difficolt\u00e0",
+            "french": "Je g\u00e8re les t\u00e2ches facilement",
+            "spanish": "Realizo mis tareas sin ning\u00fan problema"
+        }
+    },
+    {
+        "facet": "N2",
+        "R": "F",
+        "text": {
+            "english": "Lose my temper",
+            "deutsch": "Ich verliere h\u00e4ufig meine Beherrschung",
+            "italian": "Perdo le staffe",
+            "french": "Je perds patience",
+            "spanish": "A veces pierdo los estribos"
+        }
+    },
+    {
+        "facet": "E2",
+        "R": "R",
+        "text": {
+            "english": "Prefer to be alone",
+            "deutsch": "Ich ziehe es vor, allein zu sein",
+            "italian": "Preferisco stare da solo",
+            "french": "Je pr\u00e9f\u00e8re \u00eatre seul",
+            "spanish": "Prefiero estar solo"
+        }
+    },
+    {
+        "facet": "O2",
+        "R": "R",
+        "text": {
+            "english": "Do not like poetry",
+            "deutsch": "Ich mag keine Poesie",
+            "italian": "Non mi piace la poesia",
+            "french": "Je n'aime pas la po\u00e9sie",
+            "spanish": "No me gusta la poes\u00eda"
+        }
+    },
+    {
+        "facet": "A2",
+        "R": "R",
+        "text": {
+            "english": "Take advantage of others",
+            "deutsch": "Ich nutze andere f\u00fcr meine Zwecke aus",
+            "italian": "Sfrutto le altre persone",
+            "french": "Je profite des autres",
+            "spanish": "Me aprovecho de los dem\u00e1s"
+        }
+    },
+    {
+        "facet": "C2",
+        "R": "R",
+        "text": {
+            "english": "Leave a mess in my room",
+            "deutsch": "Ich lasse immer Unordnung zur\u00fcck",
+            "italian": "Lascio la mia stanza in disordine",
+            "french": "Je laisse ma chambre en d\u00e9sordre",
+            "spanish": "Mi habitaci\u00f3n es muy desordenada"
+        }
+    },
+    {
+        "facet": "N3",
+        "R": "F",
+        "text": {
+            "english": "I am often down in the dumps",
+            "deutsch": "Ich bin oft niedergeschlagen",
+            "italian": "Sono spesso gi\u00f9 di corda",
+            "french": "Il m'arrive souvent de broyer du noir",
+            "spanish": "A menudo me siento bajoneado"
+        }
+    },
+    {
+        "facet": "E3",
+        "R": "F",
+        "text": {
+            "english": "Take control of things",
+            "deutsch": "Ich kontrolliere Situationen",
+            "italian": "Prendo il controllo delle cose",
+            "french": "Je prends le contr\u00f4le des choses",
+            "spanish": "Tomo el control de las cosas"
+        }
+    },
+    {
+        "facet": "O3",
+        "R": "R",
+        "text": {
+            "english": "Rarely notice my emotional reactions",
+            "deutsch": "Ich nehme meine emotionalen Reaktionen kaum wahr",
+            "italian": "Raramente faccio caso alle mie reazioni emotive",
+            "french": "Je suis rarement sensible \u00e0 mes r\u00e9actions \u00e9motives",
+            "spanish": "En raras ocasiones noto mis reacciones emocionales"
+        }
+    },
+    {
+        "facet": "A3",
+        "R": "R",
+        "text": {
+            "english": "I am indifferent to the feelings of others",
+            "deutsch": "Mich interessieren die Gef\u00fchle anderer nicht",
+            "italian": "Sono indifferente ai sentimenti degli altri",
+            "french": "Je suis indiff\u00e9rent aux sentiments des autres",
+            "spanish": "Soy indiferente a los sentimientos de los dem\u00e1s"
+        }
+    },
+    {
+        "facet": "C3",
+        "R": "R",
+        "text": {
+            "english": "Break rules",
+            "deutsch": "Ich versto\u00dfe h\u00e4ufig gegen Spielregeln",
+            "italian": "Infrango le regole",
+            "french": "J'enfreins les r\u00e8gles",
+            "spanish": "Las reglas fueron hechas para romperse"
+        }
+    },
+    {
+        "facet": "N4",
+        "R": "F",
+        "text": {
+            "english": "Only feel comfortable with friends",
+            "deutsch": "Ich f\u00fchle mich nur unter Freunden wirklich wohl",
+            "italian": "Mi sento a mio agio solo con gli amici",
+            "french": "Je me sens seulement \u00e0 l'aise avec mes amis",
+            "spanish": "S\u00f3lo me siento c\u00f3modo en compa\u00f1\u00eda de amigos"
+        }
+    },
+    {
+        "facet": "E4",
+        "R": "F",
+        "text": {
+            "english": "Do a lot in my spare time",
+            "deutsch": "Ich unternehme viel in meiner Freizeit",
+            "italian": "Faccio molte cose nel mio tempo libero",
+            "french": "Je fais beaucoup de choses pendant mon temps libre",
+            "spanish": "Hago muchas cosas en mi tiempo libre"
+        }
+    },
+    {
+        "facet": "O4",
+        "R": "R",
+        "text": {
+            "english": "Dislike changes",
+            "deutsch": "Ich mag keine Ver\u00e4nderungen",
+            "italian": "Non amo i cambiamenti",
+            "french": "Je n'aime pas les changements",
+            "spanish": "No me atraen situaciones en constante cambio"
+        }
+    },
+    {
+        "facet": "A4",
+        "R": "R",
+        "text": {
+            "english": "Insult people",
+            "deutsch": "Ich beleidige Leute",
+            "italian": "Insulto le persone",
+            "french": "J'insulte les gens",
+            "spanish": "No tengo recelo en insultar a la gente"
+        }
+    },
+    {
+        "facet": "C4",
+        "R": "R",
+        "text": {
+            "english": "Do just enough work to get by",
+            "deutsch": "Ich arbeite nur so viel, wie ich muss",
+            "italian": "Faccio il minimo indispensabile",
+            "french": "Je fais juste assez de travail pour m'en sortir",
+            "spanish": "Solo hago el trabajo justo para haberlo cumplido"
+        }
+    },
+    {
+        "facet": "N5",
+        "R": "R",
+        "text": {
+            "english": "Easily resist temptations",
+            "deutsch": "Ich kann Versuchungen leicht widerstehen",
+            "italian": "Resisto facilmente alle tentazioni",
+            "french": "Je r\u00e9siste facilement \u00e0 la tentation",
+            "spanish": "Resisto las tentaciones f\u00e1cilmente"
+        }
+    },
+    {
+        "facet": "E5",
+        "R": "F",
+        "text": {
+            "english": "Enjoy being reckless",
+            "deutsch": "Ich bin gerne waghalsig und unbesonnen",
+            "italian": "Mi piace essere spericolato",
+            "french": "J'agis de mani\u00e8re effr\u00e9n\u00e9e",
+            "spanish": "Me gusta ser imprudente"
+        }
+    },
+    {
+        "facet": "O5",
+        "R": "R",
+        "text": {
+            "english": "Have difficulty understanding abstract ideas",
+            "deutsch": "Ich habe Schwierigkeiten, abstrakte Ideen zu verstehen",
+            "italian": "Faccio difficolt\u00e0 a capire concetti astratti",
+            "french": "J'ai des difficult\u00e9s \u00e0 comprendre les id\u00e9es abstraites",
+            "spanish": "Me es dif\u00edcil entender ideas abstractas"
+        }
+    },
+    {
+        "facet": "A5",
+        "R": "R",
+        "text": {
+            "english": "Have a high opinion of myself",
+            "deutsch": "Ich habe von mir selbst eine hohe Meinung",
+            "italian": "Ho un'alta considerazione di me stesso",
+            "french": "J'ai une tr\u00e8s bonne opinion de moi-m\u00eame",
+            "spanish": "Tengo altas expectativas de m\u00ed mismo"
+        }
+    },
+    {
+        "facet": "C5",
+        "R": "R",
+        "text": {
+            "english": "Waste my time",
+            "deutsch": "Ich vergeude meine Zeit",
+            "italian": "Perdo tempo",
+            "french": "Je perds mon temps",
+            "spanish": "No hago mucho en mi tiempo libre"
+        }
+    },
+    {
+        "facet": "N6",
+        "R": "F",
+        "text": {
+            "english": "Feel that I'm unable to deal with things",
+            "deutsch": "Ich merke, wenn ich Dingen nicht gewachsen bin",
+            "italian": "Non mi sento in grado di affrontare le cose",
+            "french": "Je me sens incapable de g\u00e9rer les choses",
+            "spanish": "A veces siento que no soy capaz de manejar situaciones"
+        }
+    },
+    {
+        "facet": "E6",
+        "R": "F",
+        "text": {
+            "english": "Love life",
+            "deutsch": "Ich liebe das Leben",
+            "italian": "Amo la vita",
+            "french": "J'adore la vie",
+            "spanish": "Amo la vida"
+        }
+    },
+    {
+        "facet": "O6",
+        "R": "R",
+        "text": {
+            "english": "Tend to vote for conservative political candidates",
+            "deutsch": "Ich tendiere dazu, politische Kandidaten zu unterst\u00fctzen, die konservative Ansichten vertreten",
+            "italian": "Tendo a votare candidati politici conservatori",
+            "french": "J\u2019ai tendance \u00e0 promouvoir des valeurs sociales lib\u00e9rales",
+            "spanish": "Tiendo a votar por los candidatos pol\u00edticos conservativos"
+        }
+    },
+    {
+        "facet": "A6",
+        "R": "R",
+        "text": {
+            "english": "I am not interested in other people's problems",
+            "deutsch": "Ich interessiere mich nicht f\u00fcr die Probleme anderer",
+            "italian": "Non mi interessano i problemi degli altri",
+            "french": "Je ne suis pas int\u00e9ress\u00e9 par les probl\u00e8mes des autres",
+            "spanish": "No me suelo implicar en los problemas de los dem\u00e1s"
+        }
+    },
+    {
+        "facet": "C6",
+        "R": "R",
+        "text": {
+            "english": "Rush into things",
+            "deutsch": "Ich handle oft vorschnell",
+            "italian": "Mi butto a capofitto nelle cose",
+            "french": "Je me pr\u00e9cipite dans l'action",
+            "spanish": "Hago las cosas sin cautela"
+        }
+    },
+    {
+        "facet": "N1",
+        "R": "F",
+        "text": {
+            "english": "Get stressed out easily",
+            "deutsch": "Ich bin ziemlich schnell gestresst",
+            "italian": "Mi stresso facilmente",
+            "french": "Je deviens stress\u00e9 facilement",
+            "spanish": "Tiendo a estresarme con facilidad"
+        }
+    },
+    {
+        "facet": "E1",
+        "R": "R",
+        "text": {
+            "english": "Keep others at a distance",
+            "deutsch": "Ich halte andere auf Abstand",
+            "italian": "Tengo gli altri a distanza",
+            "french": "Je garde les autres \u00e0 distance",
+            "spanish": "Siempre mantengo cierta distancia con las personas"
+        }
+    },
+    {
+        "facet": "O1",
+        "R": "F",
+        "text": {
+            "english": "Like to get lost in thought",
+            "deutsch": "Ich mag es, mich in Gedanken zu verlieren",
+            "italian": "Mi piace perdermi nei miei pensieri",
+            "french": "J'aime me perdre dans mes pens\u00e9es",
+            "spanish": "Me gusta perderme en mis pensamientos"
+        }
+    },
+    {
+        "facet": "A1",
+        "R": "R",
+        "text": {
+            "english": "Distrust people",
+            "deutsch": "Ich misstraue Menschen",
+            "italian": "Non mi fido delle persone",
+            "french": "Je ne fais pas confiance aux autres",
+            "spanish": "Desconf\u00edo de la gente"
+        }
+    },
+    {
+        "facet": "C1",
+        "R": "F",
+        "text": {
+            "english": "Know how to get things done",
+            "deutsch": "Ich wei\u00df, wie ich Dinge geregelt bekomme",
+            "italian": "So come fare le cose",
+            "french": "Je sais comment faire avancer les choses",
+            "spanish": "Generalmente s\u00e9 c\u00f3mo hacer las cosas"
+        }
+    },
+    {
+        "facet": "N2",
+        "R": "R",
+        "text": {
+            "english": "I am not easily annoyed",
+            "deutsch": "Ich bin nicht schnell ver\u00e4gert",
+            "italian": "Non mi infastidisco facilmente",
+            "french": "Je ne suis pas facilement agac\u00e9",
+            "spanish": "No me molesto f\u00e1cilmente"
+        }
+    },
+    {
+        "facet": "E2",
+        "R": "R",
+        "text": {
+            "english": "Avoid crowds",
+            "deutsch": "Ich meide Menschenmengen",
+            "italian": "Evito le folle",
+            "french": "J'\u00e9vite les foules",
+            "spanish": "No me gusta mezclarme con la gente"
+        }
+    },
+    {
+        "facet": "O2",
+        "R": "R",
+        "text": {
+            "english": "Do not enjoy going to art museums",
+            "deutsch": "Ich gehe nicht gern zu (Kunst-)Ausstellungen",
+            "italian": "Non mi piace visitare i musei d'arte",
+            "french": "Je n'appr\u00e9cie pas visiter des mus\u00e9es d'art",
+            "spanish": "No me agrada ir a museos de arte"
+        }
+    },
+    {
+        "facet": "A2",
+        "R": "R",
+        "text": {
+            "english": "Obstruct others' plans",
+            "deutsch": "Ich bin nicht kooperativ \u2013 Ich blockiere Pl\u00e4ne anderer",
+            "italian": "Ostacolo i piani degli altri",
+            "french": "J'entrave les plans des autres",
+            "spanish": "Ser\u00eda capaz de sabotear los planes de otros"
+        }
+    },
+    {
+        "facet": "C2",
+        "R": "R",
+        "text": {
+            "english": "Leave my belongings around",
+            "deutsch": "Ich lasse meinen Krimskrams herumliegen",
+            "italian": "Lascio le mie cose in giro",
+            "french": "Je laisse tra\u00eener les choses",
+            "spanish": "Dejo mis pertenencias aqu\u00ed y all\u00e1"
+        }
+    },
+    {
+        "facet": "N3",
+        "R": "R",
+        "text": {
+            "english": "Feel comfortable with myself",
+            "deutsch": "Ich komme gut mit mir selbst aus",
+            "italian": "Mi sento a mio agio con me stesso",
+            "french": "Je suis \u00e0 l'aise avec moi-m\u00eame",
+            "spanish": "Me siento c\u00f3modo conmigo mismo"
+        }
+    },
+    {
+        "facet": "E3",
+        "R": "R",
+        "text": {
+            "english": "Wait for others to lead the way",
+            "deutsch": "Ich warte darauf, dass andere Verantwortung \u00fcbernehmen",
+            "italian": "Lascio che gli altri prendano in mano la situazione",
+            "french": "J'attends que les autres prennent les devants",
+            "spanish": "Espero que alguien m\u00e1s lleve la batuta en un grupo"
+        }
+    },
+    {
+        "facet": "O3",
+        "R": "R",
+        "text": {
+            "english": "Don't understand people who get emotional",
+            "deutsch": "Ich habe kein Verst\u00e4ndnis f\u00fcr Menschen, die emotional werden",
+            "italian": "Non riesco a comprendere le persone emotive",
+            "french": "Je ne comprends pas les gens \u00e9motifs",
+            "spanish": "No comprendo a las personas que se emocionan f\u00e1cilmente"
+        }
+    },
+    {
+        "facet": "A3",
+        "R": "R",
+        "text": {
+            "english": "Take no time for others",
+            "deutsch": "F\u00fcr andere nehme ich mir keine Zeit",
+            "italian": "Non dedico tempo agli altri",
+            "french": "Je ne prends pas de temps pour les autres",
+            "spanish": "No tengo tiempo para los dem\u00e1s"
+        }
+    },
+    {
+        "facet": "C3",
+        "R": "R",
+        "text": {
+            "english": "Break my promises",
+            "deutsch": "Ich halte meine Versprechen nicht ein",
+            "italian": "Infrango le promesse",
+            "french": "Je ne tiens pas mes promesses",
+            "spanish": "No suelo cumplir mis promesas"
+        }
+    },
+    {
+        "facet": "N4",
+        "R": "R",
+        "text": {
+            "english": "I am not bothered by difficult social situations",
+            "deutsch": "Ich gehe schwierigen sozialen Situationen nicht aus dem Weg",
+            "italian": "Non sono preoccupato dalle difficolt\u00e0 della societ\u00e0",
+            "french": "Je ne suis pas d\u00e9rang\u00e9 par les situations sociales difficiles",
+            "spanish": "No me molestan las situaciones sociales dif\u00edciles"
+        }
+    },
+    {
+        "facet": "E4",
+        "R": "R",
+        "text": {
+            "english": "Like to take it easy",
+            "deutsch": "Ich mag es gern relaxed",
+            "italian": "Mi piace prendermela comoda",
+            "french": "J'aime prendre \u00e7a mollo",
+            "spanish": "Me gusta tomar las cosas con calma"
+        }
+    },
+    {
+        "facet": "O4",
+        "R": "R",
+        "text": {
+            "english": "I am attached to conventional ways",
+            "deutsch": "Ich bediene mich gerne konventioneller Methoden",
+            "italian": "Sono attaccato ai metodi convenzionali",
+            "french": "Je suis attach\u00e9 aux m\u00e9thodes conventionnelles",
+            "spanish": "Soy una persona mayormente conservadora"
+        }
+    },
+    {
+        "facet": "A4",
+        "R": "R",
+        "text": {
+            "english": "Get back at others",
+            "deutsch": "Ich zahle es anderen heim",
+            "italian": "Sono un tipo vendicativo",
+            "french": "Je m'en prends aux autres",
+            "spanish": "No suelo apoyar a los otros"
+        }
+    },
+    {
+        "facet": "C4",
+        "R": "R",
+        "text": {
+            "english": "Put little time and effort into my work",
+            "deutsch": "Ich stecke wenig Zeit und Aufwand in meine Arbeit",
+            "italian": "Dedico poco tempo e impegno al mio lavoro",
+            "french": "Je mets peu de temps et d'efforts dans mon travail",
+            "spanish": "Pongo poco tiempo y esfuerzo en mi trabajo"
+        }
+    },
+    {
+        "facet": "N5",
+        "R": "R",
+        "text": {
+            "english": "I am able to control my cravings",
+            "deutsch": "Ich bin in der Lage, heftiges Verlangen und Gel\u00fcste gut zu kontrollieren",
+            "italian": "Sono in grado di controllare i miei impulsi",
+            "french": "Je suis capable de contr\u00f4ler mes envies",
+            "spanish": "Siempre puedo controlar mis antojos"
+        }
+    },
+    {
+        "facet": "E5",
+        "R": "F",
+        "text": {
+            "english": "Act wild and crazy",
+            "deutsch": "Ich verhalte mich ungest\u00fcm und unkontrolliert",
+            "italian": "Agisco in maniera istintiva e pazza",
+            "french": "J'agis de fa\u00e7on t\u00e9m\u00e9raire",
+            "spanish": "Creo que soy una persona activa y vigorosa"
+        }
+    },
+    {
+        "facet": "O5",
+        "R": "R",
+        "text": {
+            "english": "I am not interested in theoretical discussions",
+            "deutsch": "Theoretische Diskussionen interessieren mich nicht",
+            "italian": "Non sono interessato nelle discussioni teoriche",
+            "french": "Je ne suis pas int\u00e9ress\u00e9 par les discussions th\u00e9oriques",
+            "spanish": "No me interesan las discusiones te\u00f3ricas"
+        }
+    },
+    {
+        "facet": "A5",
+        "R": "R",
+        "text": {
+            "english": "Boast about my virtues",
+            "deutsch": "Ich br\u00fcste mich mit meinen Tugenden",
+            "italian": "Mi vanto delle mie virt\u00f9",
+            "french": "Je me vante de mes vertus",
+            "spanish": "Me jacto de mis virtudes"
+        }
+    },
+    {
+        "facet": "C5",
+        "R": "R",
+        "text": {
+            "english": "Have difficulty starting tasks",
+            "deutsch": "Mir f\u00e4llt es schwer, mit den mir \u00fcbertragenen Aufgaben zu beginnen",
+            "italian": "Faccio difficolt\u00e0 ad iniziare un lavoro",
+            "french": "J'ai de la difficult\u00e9 \u00e0 commencer les t\u00e2ches",
+            "spanish": "Tengo dificultad para comenzar tareas"
+        }
+    },
+    {
+        "facet": "N6",
+        "R": "R",
+        "text": {
+            "english": "Remain calm under pressure",
+            "deutsch": "In Stresssituationen bleibe ich ruhig",
+            "italian": "Mantengo la calma sotto pressione",
+            "french": "Je demeure calme sous pression",
+            "spanish": "Me mantengo tranquilo/a bajo presi\u00f3n"
+        }
+    },
+    {
+        "facet": "E6",
+        "R": "F",
+        "text": {
+            "english": "Look at the bright side of life",
+            "deutsch": "Ich betrachte das Leben von seiner Sonnenseite",
+            "italian": "Guardo al lato positivo della vita",
+            "french": "Je regarde le bon c\u00f4t\u00e9 de la vie",
+            "spanish": "Siempre miro el buen lado de la vida"
+        }
+    },
+    {
+        "facet": "O6",
+        "R": "R",
+        "text": {
+            "english": "Believe that we should be tough on crime",
+            "deutsch": "Meiner Meinung nach m\u00fcssen wir sehr hart gegen Verbrechen vorgehen",
+            "italian": "Credo che il crimine vada affrontato con determinazione",
+            "french": "Je crois que nous devrions \u00eatre s\u00e9v\u00e8res \u00e0 propos des crimes",
+            "spanish": "Creo que deber\u00edamos ser severos con el crimen"
+        }
+    },
+    {
+        "facet": "A6",
+        "R": "R",
+        "text": {
+            "english": "Try not to think about the needy",
+            "deutsch": "Ich versuche, mir \u00fcber Bed\u00fcrftige keine Gedanken zu machen",
+            "italian": "Cerco di non pensare ai bisognosi",
+            "french": "Je tente de ne pas penser aux gens dans le besoin",
+            "spanish": "Trato de no pensar en los necesitados"
+        }
+    },
+    {
+        "facet": "C6",
+        "R": "R",
+        "text": {
+            "english": "Act without thinking",
+            "deutsch": "Ich handle, ohne nachzudenken",
+            "italian": "Agisco senza riflettere",
+            "french": "J'agis sans penser",
+            "spanish": "Act\u00fao sin pensar"
+        }
+    }
+]
