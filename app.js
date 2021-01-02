@@ -1,5 +1,4 @@
 const express = require('express');
-// const path = require('path');
 const morgan = require('morgan');
 const bodyParser = require('body-parser');
 const http = require('http');
@@ -10,10 +9,6 @@ dotenv.config();
 let test = require('./routes/test');
 const app = express();
 
-// let corsOptions = {
-//   origin: ['http://localhost:8080', 'https://oceanfrontend2.vercel.app', 'https://ecstatic-mahavira-da940c.netlify.app'],
-//   // credentials: true,
-//   methods: ['GET', 'POST', 'OPTIONS', 'PUT', 'DELETE'] };
 app.use(cors());
   
 //setup moongose with bluebird promise handling
@@ -30,15 +25,7 @@ mongoose.connect(mongoString, { promiseLibrary: require('bluebird'),  useNewUrlP
 app.use(morgan('dev'));
 app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({'extended':'false'}));
-// if(process.env.NODE_ENV === 'production'){
-//   app.use(express.static(path.join(__dirname,  './dist' )));
-//   app.use('/results', express.static(path.join(__dirname,  './dist' )));
-//   app.use('/results/:id', express.static(path.join(__dirname,  './dist' )));
-//   app.use('/test', express.static(path.join(__dirname,  './dist' )));
-//   app.use('/intro', express.static(path.join(__dirname,  './dist' )));
-//   app.use('/about', express.static(path.join(__dirname,  './dist' )));
-//   app.use('/policy', express.static(path.join(__dirname,  './dist' )));
-// }
+
 app.use('/test', test);
 
 
