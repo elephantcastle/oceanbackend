@@ -1,7 +1,5 @@
 const express = require('express');
 const morgan = require('morgan');
-const bodyParser = require('body-parser');
-const http = require('http');
 const cors = require('cors');
 const dotenv = require('dotenv');
 dotenv.config();
@@ -12,8 +10,8 @@ let testdata300 = JSON.parse(fs.readFileSync("./data/testdata300.json"));
 let test = require('./routes/test');
 const app = express();
 
-app.use(cors());
-  
+app.use(cors({origin: 'https://bigfivepersonalitytraits.com'}));
+
 //setup moongose with bluebird promise handling
 let mongoose = require('mongoose');
 mongoose.Promise = require('bluebird');
@@ -26,8 +24,8 @@ mongoose.connect(mongoString, { promiseLibrary: require('bluebird'),  useNewUrlP
   .catch((err) => console.error(err));
 
 app.use(morgan('dev'));
-app.use(bodyParser.json());
-app.use(bodyParser.urlencoded({'extended':'false'}));
+app.use(express.json());
+app.use(express.urlencoded({'extended':'true'}));
 
 app.use('/test', test);
 
@@ -60,9 +58,7 @@ app.use(function(err, req, res, next) {
 });
 
 const port = process.env.PORT || 4000;
-app.set('port', port);
-let server = http.createServer(app);
 
-server.listen(port, () => {
+app.listen(port, () => {
     console.log(`listening on ${port}`);
 });
