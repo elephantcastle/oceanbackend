@@ -10,7 +10,7 @@ let testdata300 = JSON.parse(fs.readFileSync("./data/testdata300.json"));
 let test = require('./routes/test');
 const app = express();
 
-app.use(cors({origin: 'https://bigfivepersonalitytraits.com'}));
+app.use(cors());
 
 //setup moongose with bluebird promise handling
 let mongoose = require('mongoose');
