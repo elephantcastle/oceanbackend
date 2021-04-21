@@ -1,8 +1,5 @@
 const express = require('express');
 const morgan = require('morgan');
-const bodyParser = require('body-parser');
-const http = require('http');
-const cors = require('cors');
 const dotenv = require('dotenv');
 dotenv.config();
 const fs = require("fs");
@@ -11,8 +8,6 @@ let testdata300 = JSON.parse(fs.readFileSync("./data/testdata300.json"));
 
 let test = require('./routes/test');
 const app = express();
-
-app.use(cors());
 
 // Enable CORS for all methods
 app.use(function(req, res, next) {
@@ -33,8 +28,8 @@ mongoose.connect(mongoString, { promiseLibrary: require('bluebird'),  useNewUrlP
   .catch((err) => console.error(err));
 
 app.use(morgan('dev'));
-app.use(bodyParser.json());
-app.use(bodyParser.urlencoded({'extended':'false'}));
+app.use(express.json());
+app.use(express.urlencoded({'extended':'true'}));
 
 app.use('/test', test);
 
@@ -67,9 +62,7 @@ app.use(function(err, req, res, next) {
 });
 
 const port = process.env.PORT || 4000;
-app.set('port', port);
-let server = http.createServer(app);
 
-server.listen(port, () => {
+app.listen(port, () => {
     console.log(`listening on ${port}`);
 });
