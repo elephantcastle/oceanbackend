@@ -13,7 +13,7 @@ let test = require('./routes/test');
 const app = express();
 
 app.use(cors());
-  
+
 //setup moongose with bluebird promise handling
 let mongoose = require('mongoose');
 mongoose.Promise = require('bluebird');
