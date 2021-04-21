@@ -14,6 +14,13 @@ const app = express();
 
 app.use(cors());
 
+// Enable CORS for all methods
+app.use(function(req, res, next) {
+  res.header("Access-Control-Allow-Origin", "*");
+  res.header("Access-Control-Allow-Headers", "*");
+  next();
+});
+
 //setup moongose with bluebird promise handling
 let mongoose = require('mongoose');
 mongoose.Promise = require('bluebird');
