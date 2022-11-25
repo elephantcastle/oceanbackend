@@ -6,14 +6,18 @@ const utils = require('../utils/index.js');
 
 /* GET SINGLE TEST BY ID */
 router.get('/:id', function (req, res, next) {
-  console.log(req)
+  console.log(req.params.id)
   Test.findById(req.params.id, function (err, post) {
     if (err) return next(err);
-    const { groupedFacets, traits, _id, updated_date } = post
-    const finalResult = { groupedFacets, traits }
-    const info = { _id, updated_date }
-    const results = { finalResult, info }
-    res.json(results);
+    try {
+      const { groupedFacets, traits, _id, updated_date } = post
+      const finalResult = { groupedFacets, traits }
+      const info = { _id, updated_date }
+      const results = { finalResult, info }
+      res.json(results);
+    } catch (error) {
+      res.json(error);
+    }
   });
 });
 
@@ -37,11 +41,15 @@ router.post('/', function (req, res, next) {
       groupedFacets: resultData.groupedFacets,
     }, function (err, post) {
       if (err) { return next(err); } else {
-        const { groupedFacets, traits, _id, updated_date } = post
-        const finalResult = { groupedFacets, traits }
-        const info = { _id, updated_date }
-        const results = { finalResult, info }
-        res.json(results);
+        try {
+          const { groupedFacets, traits, _id, updated_date } = post
+          const finalResult = { groupedFacets, traits }
+          const info = { _id, updated_date }
+          const results = { finalResult, info }
+          res.json(results);
+        } catch (error) {
+          res.json(error);
+        }
       }
     });
   })

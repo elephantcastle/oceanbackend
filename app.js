@@ -1,37 +1,35 @@
 const express = require('express');
 const morgan = require('morgan');
+const cors = require('cors');
 const dotenv = require('dotenv');
 dotenv.config();
+
+const app = express();
+app.use(cors());
+
+//setup moongose with bluebird promise handling
+const mongoose = require('mongoose');
+mongoose.Promise = require('bluebird');
+const mongoString = process.env.MONGO_URL || 'mongodb://localhost:27017/ocean'
+async function main() { await mongoose.connect(mongoString); }
+main().then(() =>  console.log('Db connection succesful')).catch(err => console.log(err));
+
+
 const fs = require("fs");
 let testdata = JSON.parse(fs.readFileSync("./data/testdata.json"));
 let testdata300 = JSON.parse(fs.readFileSync("./data/testdata300.json"));
 
 let test = require('./routes/test');
-const app = express();
-
-// Enable CORS for all methods
-app.use(function(req, res, next) {
-  res.header("Access-Control-Allow-Origin", "*");
-  res.header("Access-Control-Allow-Headers", "*");
-  next();
-});
-
-//setup moongose with bluebird promise handling
-let mongoose = require('mongoose');
-mongoose.Promise = require('bluebird');
-mongoose.set('useCreateIndex', true)
-
-const mongoString = process.env.MONGO_URL || 'mongodb://localhost:27017/ocean'
-
-mongoose.connect(mongoString, { promiseLibrary: require('bluebird'),  useNewUrlParser: true, useUnifiedTopology: true})
-  .then(() =>  console.log('Db connection succesful'))
-  .catch((err) => console.error(err));
 
 app.use(morgan('dev'));
 app.use(express.json());
 app.use(express.urlencoded({'extended':'true'}));
 
 app.use('/test', test);
+
+app.use('/healthz', function(req, res, next){
+  res.status(200).send("OK")
+});
 
 app.get('/testdata', function (req, res, next) {
     res.json(testdata);
@@ -43,22 +41,22 @@ app.get('/testdata300', function (req, res, next) {
 
 // catch 404 and forward to error handler
 app.use(function(req, res, next) {
-    var err = new Error('Not Found');
-    err.status = 404;
-    next(err);
-  });
+  let err = new Error('Not Found');
+  err.status = 404;
+  next(err);
+});
 // restful api error handler
 app.use(function(err, req, res, next) {
-    if(err){
-      next(err)
-      console.log(err);
-    }else{
-      if (req.app.get('env') !== 'development') {
-          delete err.stack;
-      }
-      res.status(err.statusCode || 500).json(err);
+  if(err){
+    next(err)
+    console.log(err);
+  }else{
+    if (req.app.get('env') !== 'development') {
+        delete err.stack;
     }
-  
+    res.status(err.statusCode || 500).json(err);
+  }
+
 });
 
 const port = process.env.PORT || 4000;
